@@ -1,5 +1,9 @@
 AS``12Sas'a
-change asdqwdasdssd12312312312312312312fsdfdsfsd
+<<<<<<< HEAD
+achangesas
+=======
+achange123s
+>>>>>>> 12180fb972b579355a4ae09a31c3dd14e01d6d9b
 sdfsdfwerscasss
 addsdemo1ád123456asdasdasdasdadsasd
 demo1ádasdasdasdasdadsasd
